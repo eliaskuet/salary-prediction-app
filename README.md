@@ -416,15 +416,6 @@ git push -u origin main
 
 ---
 
-# Author
-
-## Elias Hossain
-
-- GitHub: [Elias GitHub Profile](https://github.com/eliaskuet)
-- LinkedIn: [Elias LinkedIn Profile](https://www.linkedin.com/in/ngelias)
-
----
-
 # License
 
 This project is open-source and available under the MIT License.
@@ -440,3 +431,16 @@ Special thanks to:
 - XGBoost
 - Pandas
 - Open Source Community
+
+# Datasource Reference
+**https://www.geeksforgeeks.org/machine-learning/dataset-for-linear-regression/**
+
+
+---
+
+# Author
+
+## Elias Hossain
+
+- GitHub: [Elias GitHub Profile](https://github.com/eliaskuet)
+- LinkedIn: [Elias LinkedIn Profile](https://www.linkedin.com/in/ngelias)
