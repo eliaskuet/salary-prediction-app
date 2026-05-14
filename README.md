@@ -349,7 +349,7 @@ You can add screenshots inside the `screenshots/` folder.
 Example:
 
 ```bash
-screenshots/app_preview.png
+screenshots/predict_salary_app_preview.png
 ```
 
 Then display it in README:
