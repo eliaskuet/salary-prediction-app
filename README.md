@@ -403,7 +403,7 @@ git commit -m "Initial commit"
 ## Connect GitHub Repository
 
 ```bash
-git remote add origin https://github.com/your-username/salary-prediction-app.git
+git remote add origin https://github.com/eliaskuet/salary-prediction-app.git
 ```
 
 ---
